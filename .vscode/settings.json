@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "'Fira Code','FiraCode-Retina'",
+    "editor.fontSize": 14,
+    "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
