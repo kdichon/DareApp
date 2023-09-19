@@ -20,7 +20,7 @@ const App = () => {
 
   //Chargement des données
   const loadDbApp = async () => {
-    const categories = await firestore().collection('category').get();
+    const categories = await firestore().collection('TruthOrDare').get();
 
     //Vérification des données
     if (!categories.empty) {
